@@ -1,0 +1,14 @@
+.nav {
+  height: 70px;
+  box-shadow: 0px 1px 8px gray;
+  display: flex;
+  align-items: center;
+}
+.nav_image {
+  object-fit: contain;
+  height: 40px;
+}
+.menu {
+  flex: 0.48;
+  padding-left: 10px;
+}
